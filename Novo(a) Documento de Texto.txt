@@ -1,1 +1,2 @@
 Git log e cum comando que lista os commits realizados
+Git status é um otimo comando 
